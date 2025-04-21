@@ -7,7 +7,7 @@ library(readr)
 library(ggcorrplot)
 library(rlang)
 
-raw_path <- "/Users/hezhen/Desktop/credit_risk_model/accepted_2007_to_2018Q4.csv"
+raw_path <- "accepted_2007_to_2018Q4.csv"
 df <- read_csv(raw_path, show_col_types = FALSE)
 
 # keep defaulted observations
