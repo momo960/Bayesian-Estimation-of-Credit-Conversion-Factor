@@ -1,4 +1,5 @@
 # Bayesian Estimation of Credit Conversion Factor (CCF)
+This project is part of DSA 595 Bayesian computations for machine learning. 
 
 This project implements a fully Bayesian modeling pipeline to estimate the **Credit Conversion Factor (CCF)** using real-world data from LendingClub. CCF is a key input in regulatory capital calculations under Basel III.
 
